@@ -23,7 +23,7 @@ ext {
     picocliVersion = '3.0.0'
     web3jUnitVersion = version
     // test dependencies
-    equalsverifierVersion = '3.5.5'
+    equalsverifierVersion = '3.10'
     junitVersion = '5.5.2'
     junitBenchmarkVersion = '0.7.2'
     logbackVersion = '1.2.3'
